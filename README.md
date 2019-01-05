@@ -11,18 +11,12 @@ Set different routes to receive HTTP requests and invoke corresponding back-end 
 pickleDB can store the blockchain data in the disk.
 
 # Development environment
-## Programming language
-Python 3.6.
-## Python packages
-Flask 1.0.2 and requests 2.20.1.
-## Database
-pickleDB 0.8.1.
-## Operation system
-Windows 10 64bit build 1803 and macOS High Sierra 10.13.6.
-## Integrated Development Environment
-PyCharm Professional Edition 2018.2.
-## Other tool(s)
-Postman 6.5.3.
+Programming language: Python 3.6.
+Python packages:Flask 1.0.2 and requests 2.20.1.
+Database: pickleDB 0.8.1.
+Operation system: Windows 10 64bit build 1803 and macOS High Sierra 10.13.6.
+Integrated Development Environment: PyCharm Professional Edition 2018.2.
+Other tool(s): Postman 6.5.3.
 
 # HTTP request
 All the operations are implemented via sending HTTP requests. Nine routes have been defined for different operations:
@@ -37,15 +31,13 @@ All the operations are implemented via sending HTTP requests. Nine routes have b
 (9) /inv	Tell the requester about its own blockchain information. 
 
 # Author and distribution
-## XIA Yuchen
+XIA Yuchen
 Network – realize the interactions among different nodes.
-## HUANG Kaihang
+HUANG Kaihang
 Project solution and project framework – choose the appropriate technology and tools for the project.
 Flask web application framework – use Flask to set up routes for different HTTP requests to invoke back-end functions.
 Data persistence – store the data in the disk.
-## ZENG Lin
+ZENG Lin
 Blockchain prototype – construct the blockchain system according to the requirements.
-## HU Weihua
+HU Weihua
 Mining – implement a fixed-difficulty Proof-of-Work algorithm
-
-# Notice
