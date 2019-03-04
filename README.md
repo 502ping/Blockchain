@@ -32,7 +32,7 @@ All the operations are implemented via sending HTTP requests. Nine routes have b
 
 # Author and distribution
 XIA Yuchen<br>
-Network – realize the interactions among different nodes.
+Network – realize the interactions among different nodes.<br>
 HUANG Kaihang<br>
 Project solution and project framework – choose the appropriate technology and tools for the project.
 Flask web application framework – use Flask to set up routes for different HTTP requests to invoke back-end functions.
